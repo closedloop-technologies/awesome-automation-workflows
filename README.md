@@ -55,7 +55,5 @@ This document lists public datasets and template libraries for collecting large 
 - [rpabotsworld/awesome-rpa](https://github.com/rpabotsworld/awesome-rpa) – robotic process automation tools, frameworks, and resources.
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) – network automation resources and frameworks.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) – test automation frameworks and libraries.
-- 
 - [correlatedsecurity/Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) – security orchestration, automation, and response tools.
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) – community-driven collection of Home Assistant automation blueprints.
-- 
